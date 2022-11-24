@@ -13,6 +13,7 @@ Please follow the instructions below to make use of it.
 ## Usage
 1. The only "Dockable Dialogue" needed is "Layers", it can be accessed via "Ctrl+L" or "Windows"->"Dockable Dialogue"->"Layers". It is enabled by default. 
 2. The "Layers" container for the project looks like this:
+
  ![enter image description here](https://i.imgur.com/tq0x6j7.png)
  3. The user can click the "eye" icons to hide the various layers (sprites) /layer groups.
  4. Only the Main Pokemons (the ones that can be controlled in game) can be dragged around by default. All other elements are locked in place by default.
