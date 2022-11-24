@@ -18,6 +18,6 @@ Please follow the instructions below to make use of it.
  
  3. The user can click the "eye" icons to hide the various layers (sprites) /layer groups.
  4. Only the Main Pokemons (the ones that can be controlled in game) can be dragged around by default. All other elements are locked in place by default.
- 5. When finished, we recommend not saving the file, so the sprites will be in their default position when the file is opened again.  
+ 5. When finished, we recommend not saving the file, so the sprites will be in their default positions when the file is opened again.  
 
 
